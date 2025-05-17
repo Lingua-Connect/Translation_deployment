@@ -1,3 +1,9 @@
 {
-    "input": {"text": "Ukihesabu namba ya matunda kwa kitagahii mpaka haha undapata matunda"}
+  "input": {
+    "text": "Hello, how are you today?",
+    "source_lang": "en",
+    "target_lang": "sw",
+    "max_length": 150,
+    "num_beams": 5
+  }
 }
